@@ -1,10 +1,19 @@
 {
-    "latestVersion": "1.2.2",
-    "latestVersionCode": "10",
-    "url": "https://github.com/javiersantos/AppUpdater/releases",
-    "releaseNotes": [
-      "- First evolution",
-      "- Second evolution",
-      "- Bug fixes"
-    ]
-  }
+  "vendor_id": "1",
+  "project_id": "12",
+  "vendor_name": "Syneins",
+  "ftp_url": "",
+  "ftp_username": "",
+  "ftp_password": "",
+  "ftp_folder": "",
+  "version": "1.0",
+  "ios_version": "",
+  "update_status": "1",
+  "login_url": "https://weassure.edificetech.in/",
+  "registration_key": "",
+  "customer_registration_key": "",
+  "customer_version": "",
+  "customer_update_status": "",
+  "loc_delay": "9000",
+  "apkUrl":""
+}
